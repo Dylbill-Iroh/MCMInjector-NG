@@ -2,7 +2,7 @@
 
 # What does it do?
 
-Modders resource papyrus script. Uncaps the 128 limit for adding options to MCM pages and adds functions to quickly add a lot of options to an MCM page using array function arguments.
+Modders resource papyrus script for Skyrim SE/AE/VR. Uncaps the 128 limit for adding options to MCM pages and adds functions to quickly add a lot of options to an MCM page using array function arguments.
 Official Nexus Mods Page: [MCM Injector](https://www.nexusmods.com/skyrimspecialedition/mods/198263)
 
 # CommonLibSSE NG
